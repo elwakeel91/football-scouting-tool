@@ -5,3 +5,6 @@
 venv/
 __pycache__/
 *.pyc
+
+# Generated data — re-run 02_feature_engineering.ipynb to rebuild
+data/
