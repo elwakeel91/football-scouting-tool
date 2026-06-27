@@ -1,3 +1,9 @@
+# VSCode
+.vscode/
+
+# Local Claude Code instructions (not for version control)
+CLAUDE.md
+
 # Jupyter
 .ipynb_checkpoints/
 
